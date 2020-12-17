@@ -2,11 +2,11 @@
 
 Archivos necesarios para ejecutar el modelo.
 
+CSV Info original.
+https://drive.google.com/file/d/1yLhkAODkxgX6yqQmzp4Scl4Re8zAGKLW/view?usp=sharing
+
 MeanSTD.
 https://drive.google.com/file/d/1-2-gS9ZTxcsxx34BFewPBNmcVyOQMS0p/view?usp=sharing
-
-Model
-https://drive.google.com/file/d/10Pn-6hsHpfF2Mkefjr0II86wYyVcFRtB/view?usp=sharing
 
 Valid
 https://drive.google.com/file/d/1-1sEt8xB8XxLvJXIrH8gyHK9fAuMrezD/view?usp=sharing
